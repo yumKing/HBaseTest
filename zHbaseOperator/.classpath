@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/activemq-broker-5.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/activemq-client-5.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/activemq-console-5.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/activemq-jaas-5.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/activemq-kahadb-store-5.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/activemq-openwire-legacy-5.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/activemq-protobuf-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/activemq-spring-5.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/activemq-web-5.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/CrawlerBase.jar" sourcepath="E:/javaCode/crawlerlib/lib_src_zip/CrawlerBase.src.zip"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/cssparser-0.9.14.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/disruptor-3.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/fnlp-app-2.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/fnlp-core-2.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/fnlp-train-2.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/geronimo-j2ee-management_1.1_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/geronimo-jms_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/geronimo-jta_1.0.1B_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/hadoop-auth-2.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/hadoop-common-2.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/hadoop-hdfs-2.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/hawtbuf-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/hbase-client-0.96.2-hadoop2.jar" sourcepath="E:/javaCode/crawlerlib/lib_src_zip/hbase-client-0.96.2-hadoop2.src.zip"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/hbase-common-0.96.2-hadoop2.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/hbase-protocol-0.96.2-hadoop2.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/htmlunit-2.15-fixedgbk.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/htmlunit-core-js-2.15.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/htrace-core-2.04.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/httpclient-4.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/httpmime-4.3.3.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/insight-log4j-7.2.0.redhat-024-patched.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/insight-log-core-7.2.0.redhat-024.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/jackson-core-asl-1.8.8.jar" sourcepath="E:/javaCode/crawlerlib/lib_src_zip/jackson-core-asl-1.8.8.src.zip"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/java_getopt.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/javax.mail-1.5.5.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/jcl-over-slf4j-1.7.5.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/jedis-2.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/jetty-http-8.1.15.v20140411.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/jetty-io-8.1.15.v20140411.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/jetty-util-8.1.15.v20140411.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/jetty-websocket-8.1.15.v20140411.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/json-lib-2.4-jdk15.jar" sourcepath="E:/javaCode/crawlerlib/lib_src_zip/json-lib-2.4-jdk15.src.zip"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/jsoup-1.8.1-fixedgbk.jar" sourcepath="E:/javaCode/crawlerlib/lib_src_zip/jsoup-1.8.1-fixedgbk.src.zip"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/log4j-api-2.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/log4j-core-2.4.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/lucene-core-4.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/lucene-queries-4.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/lucene-queryparser-4.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/lucene-sandbox-4.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/mysql-connector-java-5.1.33-bin.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/nekohtml-1.9.21.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/netty-3.6.6.Final.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/opencv-246.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/opencv-2410.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/pinyin4j-2.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/rsslib4j-0.2.jar" sourcepath="E:/javaCode/crawlerlib/lib_src_zip/rsslib4j-0.2.src.zip"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/selenium-server-standalone-2.49.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/serializer-2.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/trove4j-3.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/wcs-java-sdk-1.6.3.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/xalan-2.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/zc_gx_j_test.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/zc_pic.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/ZixingDetect.jar"/>
+	<classpathentry kind="lib" path="E:/javaCode/crawlerlib/zookeeper-3.4.5.jar"/>
+	<classpathentry kind="lib" path="E:/java文档/jar包/hadoop-mapreduce/hadoop-mapreduce-client-core-2.5.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
