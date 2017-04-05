@@ -29,8 +29,8 @@ public class HbaseConnmini {
 			lconf = new LoadConf();
 			
 			//获取hbase zookeeper地址和端口
-			String addr = lconf.getProp("zookeeperaddr");
-			String port = lconf.getProp("zookeeperport");
+			String addr = lconf.getProp("serverip");
+			String port = lconf.getProp("serverport");
 			
 			//将其设置到hbase配置管理器中
 			cfg.set("hbase.zookeeper.quorum", addr);

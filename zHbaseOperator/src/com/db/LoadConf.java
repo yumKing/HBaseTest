@@ -23,9 +23,6 @@ public class LoadConf {
 		
 		//读取文件到文件对象中
 		File file = new File(path);
-		if(!file.exists()){
-			file.createNewFile();
-		}
 		try {
 			//将文件对象放入properties对象中
 			prop.load(new FileInputStream(file));
