@@ -1,6 +1,6 @@
 package com.model;
 
-public  class User {
+public abstract class User {
 
 	public String user;
 	public String email;
